@@ -12,6 +12,10 @@
 
 ## Project Overview
 The Social Media Advertising dataset is a comprehensive collection of data related to various social media advertising campaigns. It includes ad impressions, clicks, spend, demographic targeting, and conversion rates. The dataset encompasses multiple social media platforms such as Facebook, Instagram, Pinterest, and Twitter, providing diverse advertising campaign data.
+
+![Social Media Advertising Campaign Analysis](https://github.com/user-attachments/assets/c061eb56-3c78-4005-b1d7-7136d50955bd)
+
+
 ## Data Sources
 The primary dataset used for this analysis is a fictional database from [https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset]
 ## Tools
